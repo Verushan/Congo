@@ -1,0 +1,3 @@
+/home/zoro/Desktop/Congo/cmake-build-debug/CMakeFiles/Code.dir
+/home/zoro/Desktop/Congo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zoro/Desktop/Congo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

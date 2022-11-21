@@ -1,0 +1,608 @@
+Making move: g2g3
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  P  
+2 _  _  p  _  _  p  _  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/6s/4L1P/2p2p1/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g4f3 g4f4 g4g3 g5f4
+4 white pieces and 9 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: g2f3
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  P  p  
+2 _  _  p  _  _  p  _  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/6s/4LPp/2p2p1/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e4f5
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  P  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5Pp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5d3 f5d5 f5d7 f5e4 f5e5 f5f3 f5f4 f5f7 f5g6 g3g2 g4f3 g4f4 g5f4
+5 white pieces and 9 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e4e5
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  P  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/4Psp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e5c3 e5c5 e5c7 e5d4 e5d5 e5d6 e5e3 e5e4 e5e7 e5f4 e5g7 e6d5 e6d6 e6d7 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+5 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e4d5
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  P  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/3P1sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 d5b3 d5b5 d5c4 d5c5 d5d3 d5d4 d5d6 d5d7 d5e4 d5e5 d5f3 d5f7 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+5 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: f6g7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  S  
+6 p  P  p  _  l  _  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z4S/pPp1l2/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5f6 f5f7 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: f6f7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  S  _  
+6 p  P  p  _  l  _  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z3S1/pPp1l2/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5f6 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: f6e7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  S  _  _  
+6 p  P  p  _  l  _  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z2S2/pPp1l2/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5f6 f5f7 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: b6b4
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  _  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  P  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/p1p1lP1/5sp/1P4s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: b6b5
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  _  p  _  l  P  _  
+5 _  P  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/p1p1lP1/1P3sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: b6c7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  S  _  _  _  _  
+6 p  _  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1zS4/p1p1lP1/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: b6b7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  S  _  _  _  _  _  
+6 p  _  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1S5/p1p1lP1/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 9 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: b6a7
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 S  z  _  _  _  _  _  
+6 p  _  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+Sz5/p1p1lP1/5sp/6s/4L1p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e3 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e3d2
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  _  _  p  
+2 _  _  p  L  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/6s/6p/2pL1pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e3 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e3e2
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  _  _  _  p  
+2 _  _  p  _  L  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/6s/6p/2p1LpP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d3 e4d4 e4d5 e4e2 e4e3 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e2 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
+Making move: e3d3
+Before making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+After making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  _  _  s  
+3 _  _  _  L  _  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/6s/3L2p/2p2pP/7 b 12
+a6a5 a6b5 b7a5 b7c5 b7d6 c2b1 c2c1 c2c3 c2c4 c2d1 c6b5 c6c5 c6d5 e4c4 e4d4 e4d5 e4e2 e4e3 e4e5 e4f3 e4f4 e4g2 e4g6 e6d5 e6d6 e6d7 e6e5 e6e7 f5e4 f5e5 f5f4 f5g6 g3g2 g4f3 g4f4 g5f4
+4 white pieces and 10 black pieces
+After un-making move
+7 _  z  _  _  _  _  _  
+6 p  P  p  _  l  P  _  
+5 _  _  _  _  _  s  p  
+4 _  _  _  _  P  _  s  
+3 _  _  _  _  L  _  p  
+2 _  _  p  _  _  p  P  
+1 _  _  _  _  _  _  _  
+  a  b  c  d  e  f  g  
+1z5/pPp1lP1/5sp/4P1s/4L1p/2p2pP/7 w 12
+b6a7 b6b4 b6b5 b6b7 b6c7 e3d2 e3d3 e3e2 e4d5 e4e5 e4f5 f6e7 f6f7 f6g7 g2f3 g2g3
+5 white pieces and 10 black pieces
+
